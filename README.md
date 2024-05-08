@@ -15,5 +15,5 @@
 <h3 dir="rtl">Payment Table&nbsp; اطلاعات پرداخت سفارشات را ذخیره می کند.</h3>
 <h3 dir="rtl">این یک طرح ساده و کلی است. بسته به پیچیدگی فروشگاه و الزامات خاص، ممکن است لازم باشد جداول و فیلدهای بیشتری اضافه شود.</h3>
 <br>
-<img src="https://github.com/Ehsan80085/SQL-Shamsi-S05/assets/162964765/baf91f8a-b4ba-4739-99b6-839e3b484e5f" align="center" height="550" width="90%"/>
+<img src="https://github.com/Ehsan80085/SQL-Shamsi-S05/assets/162964765/4677166f-6e7f-44de-9954-8bbfc21e448a" align="center" height="550" width="90%"/>
 </div>
