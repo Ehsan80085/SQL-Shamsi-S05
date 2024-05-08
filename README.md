@@ -14,5 +14,5 @@
 <h3 dir="rtl">OrderDetail Table&nbsp; شامل جزئیات محصولات در هر سفارش است.</h3>
 <h3 dir="rtl">Payment Table&nbsp; اطلاعات پرداخت سفارشات را ذخیره می کند.</h3>
 <h3 dir="rtl">این یک طرح ساده و کلی است. بسته به پیچیدگی فروشگاه و الزامات خاص، ممکن است لازم باشد جداول و فیلدهای بیشتری اضافه شود.</h3>
-<img src="https://github.com/Ehsan80085/SQL-Shamsi-S05/assets/162964765/baf91f8a-b4ba-4739-99b6-839e3b484e5f" align="center" height="350" width="70%"/>
+<img src="https://github.com/Ehsan80085/SQL-Shamsi-S05/assets/162964765/baf91f8a-b4ba-4739-99b6-839e3b484e5f" align="center" height="450" width="90%"/>
 </div>
